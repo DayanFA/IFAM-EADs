@@ -2,4 +2,4 @@
 
 # Programador de Sistemas
 
-O curso Programador de Sistemas, ofertado pelo IFAM (Instituto Federal de Educação, Ciência e Tecnologia do Amazonas), tem como objetivo Fornecer qualificação inicial em programação de computadores obedecendo ao paradigma de orientação a objetos com a linguagem Java.
+A instituição, com polos de apoio presencial em municípios dos estados do Amazonas, Roraima e Rondônia, oferece opções de cursos técnicos, graduação e pós-graduação, procurando atender à missão do Instituto em promover com excelência a educação, ciência e tecnologia para o desenvolvimento sustentável da Amazônia. Por meio da EaD, o IFAM busca consolidar as ações e políticas educacionais de ensino inovador, extensão tecnológica e pesquisa aplicada. A Escola Virtual do IFAM, disponibiliza vários cursos online e gratuitos de várias áreas de conhecimento para o desenvolvimento institucional e da sociedade.
