@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/blob/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/DayanFA/Sistemas-de-Informacao-UFAC/blob/main/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DayanFA/IFAM-EADs/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/DayanFA/IFAM-EADs/blob/main/README.pt-br.md)
 
 ![229500757-196875ed-4fff860-4b06-a3ac-1303a24c3b3e](https://user-images.githubusercontent.com/123272343/231602196-4d93ce87-c8cc-4113-a121-1ad7c2e142e6.png)
 
