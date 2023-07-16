@@ -1,10 +1,10 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DayanFA/IFAM-EADs/blob/main/Programador%20de%20Sistemas/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/DayanFA/IFAM-EADs/blob/main/Programador%20de%20Sistemas/README.pt-br.md)
 
-# Curso Programador de Sistemas
+# Systems Programmer Course
 
-O curso Programador de Sistemas, ofertado pelo IFAM (Instituto Federal de Educação, Ciência e Tecnologia do Amazonas), tem como objetivo Fornecer qualificação inicial em programação de computadores obedecendo ao paradigma de orientação a objetos com a linguagem Java.
+The Systems Programmer Course, offered by IFAM (Federal Institute of Education, Science, and Technology of Amazonas), aims to provide an initial qualification in computer programming following the object-oriented paradigm using the Java language.
 
-# Exercício práticos 
+# Exercises 
 
-* Exercícios - Uma série de exercícios com a linguagem JAVA e coisas vistas em aula.
+* Exercícios - A series of practical exercises using the Java language and concepts covered in class.
